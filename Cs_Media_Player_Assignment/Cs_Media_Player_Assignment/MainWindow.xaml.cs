@@ -18,6 +18,9 @@ using System.Windows.Threading;
 
 namespace Cs_Media_Player_Assignment
 {
+    // used this as a reference 
+    //http://www.wpf-tutorial.com/audio-video/how-to-creating-a-complete-audio-video-player/
+
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
@@ -54,7 +57,8 @@ namespace Cs_Media_Player_Assignment
         private void Open_Executed(object sender, ExecutedRoutedEventArgs e)
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
-            openFileDialog.Filter = "Media files (*.mp3;*.mpg;*.mpeg)|*.mp3;*.mpg;*.mpeg|All files (*.*)|*.*";
+            openFileDialog.Title = "Open a File for Playback";
+            openFileDialog.Filter = "Media files (*.mp3;*.mpg;*.mpeg;*.mp4;*.m4v)|*.mp3;*.mpg;*.mpeg;*.mp4;*.m4v|All files (*.*)|*.*";
             if (openFileDialog.ShowDialog() == true)
                 mediaPlayer.Source = new Uri(openFileDialog.FileName);
         }

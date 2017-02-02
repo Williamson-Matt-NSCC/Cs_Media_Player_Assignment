@@ -37,6 +37,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -94,6 +95,3006 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\anchor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_cascade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_double.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_form.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_form_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_form_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_form_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_form_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_get.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_osx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_osx_terminal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_put.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_side_boxes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_side_contract.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_side_expand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_side_list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_side_tree.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_split.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_tile_horizontal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_tile_vertical.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_view_columns.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_view_detail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_view_gallery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_view_icons.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_view_list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_view_tile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_xp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\application_xp_terminal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_branch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_divide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_inout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_join.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_merge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_refresh_small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_rotate_anticlockwise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_rotate_clockwise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_switch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_turn_left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_turn_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\arrow_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\asterisk_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\asterisk_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\attach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\award_star_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\award_star_bronze_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\award_star_bronze_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\award_star_bronze_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\award_star_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\award_star_gold_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\award_star_gold_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\award_star_gold_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\award_star_silver_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\award_star_silver_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\award_star_silver_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\basket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\basket_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\basket_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\basket_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\basket_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\basket_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\basket_put.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\basket_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bell.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bell_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bell_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bell_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bell_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bell_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bin_closed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bin_empty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bomb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\book_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\book_addresses.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\book_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\book_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\book_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\book_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\book_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\book_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\book_next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\book_open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\book_previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\brick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\brick_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\brick_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\brick_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\brick_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\brick_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\brick_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bricks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\briefcase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bug.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bug_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bug_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bug_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bug_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bug_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bug_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\building.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\building_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\building_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\building_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\building_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\building_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\building_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\building_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_arrow_bottom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_arrow_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_arrow_top.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_arrow_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_feed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_pink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_purple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_toggle_minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_toggle_plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_wrench.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\bullet_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calculator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calculator_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calculator_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calculator_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calculator_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calculator_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calendar_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calendar_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calendar_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calendar_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calendar_view_day.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calendar_view_month.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\calendar_view_week.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\camera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\camera_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\camera_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\camera_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\camera_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\camera_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\camera_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\camera_small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\car.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\car_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\car_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cart_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cart_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cart_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cart_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cart_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cart_put.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cart_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cd_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cd_burn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cd_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cd_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cd_eject.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cd_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_bar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_bar_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_bar_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_bar_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_bar_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_bar_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_curve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_curve_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_curve_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_curve_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_curve_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_curve_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_curve_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_line_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_line_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_line_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_line_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_line_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_organisation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_organisation_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_organisation_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_pie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_pie_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_pie_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_pie_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_pie_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\chart_pie_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\clock_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\clock_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\clock_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\clock_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\clock_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\clock_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\clock_pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\clock_play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\clock_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\clock_stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cog.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cog_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cog_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cog_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cog_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cog_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\coins.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\coins_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\coins_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\color_swatch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\color_wheel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\comment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\comment_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\comment_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\comment_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\comments.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\comments_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\comments_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\compress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\computer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\computer_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\computer_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\computer_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\computer_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\computer_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\computer_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\computer_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\connect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\contrast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\contrast_decrease.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\contrast_high.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\contrast_increase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\contrast_low.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_eject.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_eject_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_end.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_end_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_equalizer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_equalizer_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_fastforward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_fastforward_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="famfamfam_silk_icons_v013\icons\control_pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_pause_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="famfamfam_silk_icons_v013\icons\control_play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_play_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_repeat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_repeat_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_rewind.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_rewind_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_start_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="famfamfam_silk_icons_v013\icons\control_stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\control_stop_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\controller.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\controller_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\controller_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\controller_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\creditcards.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\css.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\css_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\css_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\css_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\css_valid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cup_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cup_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cup_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cup_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cup_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cup_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cup_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cursor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\cut_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_connect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\database_table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\date.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\date_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\date_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\date_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\date_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\date_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\date_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\date_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\date_next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\date_previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\disconnect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\disk_multiple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\door.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\door_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\door_open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\door_out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drink_empty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_burn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_cd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_cd_empty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_network.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_rename.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\drive_web.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\dvd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\dvd_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\dvd_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\dvd_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\dvd_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\dvd_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\dvd_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\dvd_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\email_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\email_attach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\email_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\email_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\email_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\email_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\email_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\email_open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\email_open_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\emoticon_evilgrin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\emoticon_grin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\emoticon_happy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\emoticon_smile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\emoticon_surprised.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\emoticon_tongue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\emoticon_unhappy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\emoticon_waii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\emoticon_wink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\error_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\error_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\error_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\exclamation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\feed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\feed_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\feed_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\feed_disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\feed_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\feed_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\feed_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\feed_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\feed_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\feed_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\female.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\film.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\film_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\film_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\film_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\film_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\film_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\film_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\film_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\film_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\flag_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\flag_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\flag_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\flag_pink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\flag_purple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\flag_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\flag_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_bell.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_brick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_bug.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_camera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_explore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_feed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_heart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="famfamfam_silk_icons_v013\icons\folder_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_lightbulb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_page.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_page_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_palette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\folder_wrench.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\font.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\font_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\font_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\font_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\group_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\group_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\group_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\group_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\group_gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\group_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\group_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\group_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\heart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\heart_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\heart_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\hourglass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\hourglass_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\hourglass_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\hourglass_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\hourglass_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\house_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\house_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\html.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\html_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\html_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\html_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\html_valid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\image_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\image_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\image_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\image_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ipod.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ipod_cast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ipod_cast_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ipod_cast_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ipod_sound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\joystick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\joystick_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\joystick_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\joystick_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\key_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\key_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\key_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\keyboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\keyboard_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\keyboard_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\keyboard_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\layers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\layout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\layout_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\layout_content.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\layout_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\layout_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\layout_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\layout_header.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\layout_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\layout_sidebar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lightbulb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lightbulb_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lightbulb_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lightbulb_off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lightning_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lightning_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lightning_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\link_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\link_break.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\link_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\link_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\link_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\link_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lock_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lock_break.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lock_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lock_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lock_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lock_open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lorry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lorry_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lorry_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lorry_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lorry_flatbed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lorry_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\lorry_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\magifier_zoom_out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\magnifier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\magnifier_zoom_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\male.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\map.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\map_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\map_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\map_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\map_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\map_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_bronze_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_bronze_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_bronze_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_bronze_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_bronze_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_gold_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_gold_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_gold_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_gold_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_gold_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_silver_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_silver_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_silver_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_silver_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\medal_silver_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\money_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\money_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\money_dollar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\money_euro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\money_pound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\money_yen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\monitor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\monitor_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\monitor_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\monitor_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\monitor_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\monitor_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\monitor_lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\monitor_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\mouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\mouse_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\mouse_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\mouse_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\music.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\newspaper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\newspaper_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\newspaper_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\newspaper_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\newspaper_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\note.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\note_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\note_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\note_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\note_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\note_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\overlays.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\package.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\package_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\package_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\package_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\package_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\package_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_attach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_code.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_paintbrush.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_paste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_acrobat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_actionscript.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_camera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_cd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_code.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_code_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_coldfusion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_compressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_cplusplus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_csharp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_cup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_dvd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_flash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_freehand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_get.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_h.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_horizontal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_medal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_office.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_paint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_paintbrush.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_paste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_php.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_powerpoint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_put.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_ruby.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_stack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_swoosh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_text_width.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_tux.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_vector.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_visualstudio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_width.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_word.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_world.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_wrench.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_white_zip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_word.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\page_world.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\paintbrush.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\paintcan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\palette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\paste_plain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\paste_word.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\pencil_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\pencil_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\pencil_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\phone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\phone_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\phone_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\phone_sound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\photo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\photo_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\photo_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\photo_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\photos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\picture_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\picture_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\picture_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\picture_empty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\picture_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\picture_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\picture_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\picture_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\picture_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\pictures.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\pilcrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\pill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\pill_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\pill_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\pill_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\plugin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\plugin_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\plugin_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\plugin_disabled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\plugin_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\plugin_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\plugin_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\plugin_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\printer_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\printer_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\printer_empty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\printer_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\rainbow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\report_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\report_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\report_disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\report_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\report_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\report_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\report_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\report_magnify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\report_picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\report_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\report_word.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\resultset_first.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\resultset_last.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\resultset_next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\resultset_previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\rosette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\rss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\rss_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\rss_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\rss_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\rss_valid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ruby.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ruby_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ruby_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ruby_gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ruby_get.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ruby_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ruby_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ruby_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\ruby_put.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_code.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_code_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_palette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\script_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_chart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_compressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_connect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\server_uncompressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shading.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_align_bottom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_align_center.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_align_left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_align_middle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_align_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_align_top.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_flip_horizontal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_flip_vertical.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_handles.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_move_back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_move_backwards.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_move_forwards.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_move_front.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_rotate_anticlockwise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_rotate_clockwise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_square.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_square_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_square_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_square_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_square_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_square_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_square_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_square_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shape_ungroup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shield.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shield_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shield_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\shield_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sitemap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sitemap_color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sound.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sound_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sound_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sound_low.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sound_mute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sound_none.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\spellcheck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sport_8ball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sport_basketball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sport_football.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sport_golf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sport_raquet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sport_shuttlecock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sport_soccer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sport_tennis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\status_away.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\status_busy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\status_offline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\status_online.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\style.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\style_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\style_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\style_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\style_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\sum.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tab_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tab_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tab_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tab_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_multiple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_relationship.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_row_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_row_insert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\table_sort.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tag_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tag_blue_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tag_blue_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tag_blue_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tag_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tag_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tag_pink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tag_purple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tag_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tag_yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\telephone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\telephone_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\telephone_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\telephone_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\telephone_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\telephone_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\telephone_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\telephone_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\television.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\television_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\television_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_align_center.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_align_justify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_align_left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_align_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_allcaps.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_bold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_columns.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_dropcaps.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_heading_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_heading_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_heading_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_heading_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_heading_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_heading_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_horizontalrule.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_indent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_indent_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_italic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_kerning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_letter_omega.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_letterspacing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_linespacing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_list_bullets.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_list_numbers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_lowercase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_padding_bottom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_padding_left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_padding_right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_padding_top.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_replace.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_signature.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_smallcaps.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_strikethrough.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_subscript.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_superscript.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_underline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\text_uppercase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\textfield.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\textfield_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\textfield_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\textfield_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\textfield_rename.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\thumb_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\thumb_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\time.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\time_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\time_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\time_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\timeline_marker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\transmit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\transmit_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\transmit_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\transmit_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\transmit_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\transmit_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\transmit_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\tux.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\user_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\user_comment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\user_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\user_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\user_female.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\user_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\user_gray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\user_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\user_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\user_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\user_suit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\vcard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\vcard_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\vcard_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\vcard_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\vector.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\vector_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\vector_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\wand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\weather_clouds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\weather_cloudy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\weather_lightning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\weather_rain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\weather_snow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\weather_sun.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\webcam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\webcam_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\webcam_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\webcam_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\world.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\world_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\world_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\world_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\world_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\world_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\wrench.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\wrench_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\xhtml.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\xhtml_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\xhtml_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\xhtml_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\xhtml_valid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\zoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\zoom_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="famfamfam_silk_icons_v013\icons\zoom_out.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

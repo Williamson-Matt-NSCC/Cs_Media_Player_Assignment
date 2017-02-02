@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Cs_Media_Player_Assignment"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="450" Width="800" MinWidth="300" SizeToContent="WidthAndHeight" ResizeMode="NoResize">
     <Window.CommandBindings>
         <CommandBinding Command="ApplicationCommands.Open" CanExecute="Open_CanExecute" Executed="Open_Executed" />
         <CommandBinding Command="MediaCommands.Play" CanExecute="Play_CanExecute" Executed="Play_Executed" />
@@ -20,17 +20,23 @@
         </Grid.RowDefinitions>
         <ToolBar>
             <Button Command="ApplicationCommands.Open">
-                <Image Source="/WpfTutorialSamples;component/Images/folder.png" />
+                <!--http://stackoverflow.com/questions/5552618/how-to-reference-image-resources-in-xaml-->
+                <Image Source="/famfamfam_silk_icons_v013/icons/folder_image.png" />
+            </Button>
+            <Button>
+                <Label IsEnabled="False">
+                    Matt Williamson
+                </Label>
             </Button>
             <Separator />
             <Button Command="MediaCommands.Play">
-                <Image Source="/WpfTutorialSamples;component/Images/control_play_blue.png" />
+                <Image Source="/famfamfam_silk_icons_v013/icons/control_play.png" />
             </Button>
             <Button Command="MediaCommands.Pause">
-                <Image Source="/WpfTutorialSamples;component/Images/control_pause_blue.png" />
+                <Image Source="/famfamfam_silk_icons_v013/icons/control_pause.png" />
             </Button>
             <Button Command="MediaCommands.Stop">
-                <Image Source="/WpfTutorialSamples;component/Images/control_stop_blue.png" />
+                <Image Source="/famfamfam_silk_icons_v013/icons/control_stop.png" />
             </Button>
         </ToolBar>
 
